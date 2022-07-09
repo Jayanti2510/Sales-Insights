@@ -1,13 +1,21 @@
 ## Sales Insights Data Analysis Project
 
-### Instructions to setup mysql on your local computer
+## About the Project
+
+Tableau dashboard for predicting sales insights for a hardware supplier company.
+
+## Tools Used
+ - Tableau
+ - MySQL
+
+## Instructions to setup mysql on your local computer
 
 1. Follow step in this video to install mysql on your local computer
 https://www.youtube.com/watch?v=WuBcTJnIuzo
 
 1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
 
-### Data Analysis Using SQL
+## Data Analysis Using SQL
 
 1. Show all customer records
 
@@ -47,5 +55,15 @@ https://www.youtube.com/watch?v=WuBcTJnIuzo
 and transactions.market_code="Mark001";`
 
 
+## Demo
+
+![Screenshot (1148)](https://user-images.githubusercontent.com/80064004/178119520-ed0f497f-cc09-44f6-9cda-cffdbefe0a96.png)
+
+## Contact
+
+Jayanti
+
+- [@LinkedIn](https://www.linkedin.com/in/jayanti-vadhera-24a972208/)
+- jayantivadhera@gmail.com
 
 
